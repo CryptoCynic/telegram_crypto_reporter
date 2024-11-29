@@ -16,12 +16,12 @@ A Python-based tool that scrapes cryptocurrency-related Telegram channels, analy
 ## Features
 
 ### **Data Collection**  
-- Automated Telegram channel scraping  
+- Automated Telegram channel scraping ([Get your API_ID and API_HASH](https://my.telegram.org/auth)) 
 - Support for both trading and news channels  
 - Configurable time window for message collection  
 
 ### **Analysis**  
-- Dual AI engine support (OpenAI/Google Gemini)  
+- Dual AI models support through APIs ([OpenAI](https://platform.openai.com/api-keys) / [Google Gemini](https://aistudio.google.com))  
 - Cryptocurrency mention tracking  
 - Message engagement metrics (views, forwards)  
 
