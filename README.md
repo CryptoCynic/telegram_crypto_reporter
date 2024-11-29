@@ -1,7 +1,8 @@
 # 🤖 TGCryptoReporter
 
 A Python-based tool that scrapes cryptocurrency-related Telegram channels, analyzes content using AI (OpenAI or Google Gemini), and generates comprehensive market insights.
-**Attention** It might take time to run due to number of messages to be analyzed. Either alter the channel list to a shorter one or input just 1 or 2 in the argument --hours. Openai model method is not working for the moment but consider using Gemini by getting a [free API key from Google AI Studio](#https://aistudio.google.com).
+
+**Attention**: It might take time to run due to number of messages to be analyzed. Either alter the channel list to a shorter one or input just 1 or 2 in the argument --hours. Openai model method is not working for the moment but consider using Gemini by getting a [free API key from Google AI Studio](https://aistudio.google.com).
 
 ---
 <p align="center">
